@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Joan, an <a href="https://linkedin.com/in/Joanashanut"> enthusiastic IT Professional</a>☺</h1>
+I'm Joan, an <a href="[https://linkedin.com/in/Joanashanut](https://www.linkedin.com/in/joan-ashanut-75331b238/)"> enthusiastic IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
